@@ -1,0 +1,6 @@
+@TGW.WebApi_HostAddress = http://localhost:5124
+
+GET {{TGW.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
